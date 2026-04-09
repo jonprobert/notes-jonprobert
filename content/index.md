@@ -13,4 +13,4 @@ For Casual Process Engineer visit www.casualprocessengineer.com.
 
 Example of a linked [[Links|page]].
 
-![[JPZ_1727.jpg|500]]
+![[Jon500px.jpg]]
