@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-XERGEEE1CS",
     },
     locale: "en-GB",
-    baseUrl: "www.casualprocessengineer.com",
+    baseUrl: "notes.jonprobert.co.uk",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

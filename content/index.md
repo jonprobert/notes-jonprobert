@@ -11,3 +11,6 @@ For the general photography website please visit www.jonprobert.co.uk instead.
 
 For Casual Process Engineer visit www.casualprocessengineer.com.
 
+Example of a linked [[Links|page]].
+
+![[JPZ_1727.jpg|500]]
