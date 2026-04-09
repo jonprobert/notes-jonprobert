@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notes",
+    pageTitle: "Jon's Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Raleway",
-        body: "Noto Serif",
+        body: "Lora",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -35,18 +35,18 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#282F3C",
-          secondary: "#02B2F2",
+          secondary: "#19CEC5",
           tertiary: "#F400BE",
           highlight: "#00a0da16",
           textHighlight: "#F400BE",
         },
         darkMode: {
-          light: "#282F3C",
+          light: "#233946",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ffffff",
-          secondary: "#02B2F2",
+          secondary: "#19CEC5",
           tertiary: "#F400BE",
           highlight: "rgba(2, 178, 242, 0.12)",
           textHighlight: "#F400BE",

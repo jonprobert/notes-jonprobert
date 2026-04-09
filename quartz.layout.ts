@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      //"Home": "https://www.casualprocessengineer.com",
+      "Home": "https://notes.jonprobert.co.uk",
     },
   }),
 }
@@ -22,7 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     //Component.ArticleTitle(),
     //Component.ContentMeta(),
-    //Component.TagList(),
+    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

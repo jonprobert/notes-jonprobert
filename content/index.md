@@ -1,16 +1,18 @@
 ---
-cover:
 description: notes.jonprobert.co.uk
-title: Notes - Jon Probert
+title: Jon's Notes
 ---
-# Notes
+# Jon's Notes
 
-Welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I don't exactly know what this site will be used for in the future. Stay tuned I suppose.
+Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet.
 
-For the general photography website please visit www.jonprobert.co.uk instead.
+In the meantime, here are some [[Links|other things]].
 
-For Casual Process Engineer visit www.casualprocessengineer.com.
+Contact: jon@jonprobert.co.uk
 
-Example of a linked [[Links|page]].
+Take care.
 
-![[Jon500px.jpg]]
+![[Jon500px.jpg|300]]
+
+> “All we have to decide is what to do with the time that is given us.”
+> — J.R.R. Tolkien
