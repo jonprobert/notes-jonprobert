@@ -2,7 +2,7 @@
 description: notes.jonprobert.co.uk
 title: Jon's Notes
 ---
-# Jon's Notes :)
+# Jon's Notes
 
 Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet.
 
