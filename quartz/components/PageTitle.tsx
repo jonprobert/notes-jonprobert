@@ -9,47 +9,13 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
 
-  const lightLogo = "/files/logo-light.png"
-  const darkLogo = "/files/logo-dark.png"
-
-  return (
+   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img
-          class="Logo"
-          src={lightLogo}
-          alt={title}
-          style="display: block;"
-          data-light-logo
-        />
-        <img
-          class="Logo"
-          src={darkLogo}
-          alt={title}
-          style="display: none;"
-          data-dark-logo
-        />
+        <img class="Logo logo-light" src="/files/logo-light.png" />
+        <img class="Logo logo-dark" src="/files/logo-dark.png" />
       </a>
       {/*<a href={baseDir}>{title}</a>*/} {/*RESTORE THIS LINE TO GET THE PAGE TITLE BACK JON*/}
-
-      <script dangerouslySetInnerHTML={{ __html: `
-        const root = document.documentElement;
-        const light = document.querySelector('[data-light-logo]');
-        const dark = document.querySelector('[data-dark-logo]');
-
-        const update = () => {
-          const isDark = root.getAttribute('saved-theme') === 'dark';
-          light.style.display = isDark ? 'none' : 'block';
-          dark.style.display = isDark ? 'block' : 'none';
-        };
-
-        update();
-
-        new MutationObserver(update).observe(root, {
-          attributes: true,
-          attributeFilter: ['saved-theme']
-        });
-      `}} />
     </h2>
   )
 }
@@ -66,7 +32,18 @@ PageTitle.css = `
   display: block;
 }
 
-/* mobile override */
+.logo-dark {
+  display: none;
+}
+
+:root[saved-theme="dark"] .logo-light {
+  display: none;
+}
+
+:root[saved-theme="dark"] .logo-dark {
+  display: block;
+}
+
 @media (max-width: 800px) {
   .Logo {
     width: 20%;
