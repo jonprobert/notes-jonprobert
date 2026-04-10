@@ -1,9 +1,12 @@
 ---
 description: notes.jonprobert.co.uk
-title: Jon's Notes
+title: Home
+tags:
+socialImage:
+date: 2026-03-30
+modified:
+draft: false
 ---
-# Jon's Notes
-
 Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet.
 
 In the meantime, here are some [[Links|other things]].

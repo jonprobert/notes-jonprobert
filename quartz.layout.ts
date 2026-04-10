@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Home": "https://notes.jonprobert.co.uk",
+      "Notes Home": "https://notes.jonprobert.co.uk",
+      "Main site": "https://www.jonprobert.co.uk",
     },
   }),
 }
@@ -20,8 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    //Component.ArticleTitle(),
-    //Component.ContentMeta(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [

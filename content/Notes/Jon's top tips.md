@@ -1,5 +1,12 @@
-# Jon's top tips
-
+---
+title: Jon's Top Tips
+tags:
+description:
+socialImage:
+date: 2026-03-30
+modified: 2026-04-07
+draft: false
+---
 Some life advice.
 
 1. Do not drop a cast iron le creuset casserole pan on your big toe. It will hurt. A lot.
