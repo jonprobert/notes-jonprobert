@@ -5,7 +5,7 @@ description:
 socialImage:
 date: 2026-04-11
 modified:
-draft: true
+draft: false
 ---
 Various good words and thoughts.
 
@@ -25,4 +25,4 @@ Various good words and thoughts.
 > 
 > — *Brian Blessed*
 
-> - Sometimes, a man on the right track gets hit by a train on the wrong one.
+> -Sometimes, a man on the right track gets hit by a train on the wrong one.
