@@ -1,21 +1,16 @@
 ---
 description: notes.jonprobert.co.uk
-title: Home
+title: Jon's Notes
 tags:
 socialImage:
 date: 2026-03-30
 modified: 2026-04-10
 draft: false
 ---
-Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet.
+Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet. In the meantime, feel free explore the sidebar.
 
-In the meantime, explore the sidebar.
-
-Contact: jon@jonprobert.co.uk
-
-Take care.
+✉️ jon@jonprobert.co.uk
 
 ![[Jon500px.jpg|300]]
 
-> “All we have to decide is what to do with the time that is given us.”
-> — J.R.R. Tolkien
+Take care.
