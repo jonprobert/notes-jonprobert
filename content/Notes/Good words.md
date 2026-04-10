@@ -151,3 +151,8 @@ Various good words and thoughts.
 > 
 > *— The Name of the Wind, Patrick Rothfuss*
 
+> [!quote]
+> It had flaws, but what does that matter when it comes to matters of the heart? We love what we love. Reason does not enter into it. In many ways, unwise love is the truest love. Anyone can love a thing _because_. That’s as easy as putting a penny in your pocket. But to love something _despite_. To know the flaws and love them too. That is rare and pure and perfect.
+> 
+> *— The Wise Man's Fear, Patrick Rothfuss*
+
