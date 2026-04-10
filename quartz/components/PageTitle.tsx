@@ -19,14 +19,14 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
           class="Logo"
           src={lightLogo}
           alt={title}
-          style="width: 50%; display: block;"
+          style="display: block;"
           data-light-logo
         />
         <img
           class="Logo"
           src={darkLogo}
           alt={title}
-          style="width: 50%; display: none;"
+          style="display: none;"
           data-dark-logo
         />
       </a>
@@ -59,6 +59,18 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+}
+
+.Logo {
+  width: 40%;
+  display: block;
+}
+
+/* mobile override */
+@media (max-width: 800px) {
+  .Logo {
+    width: 10%;
+  }
 }
 `
 
