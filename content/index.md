@@ -11,6 +11,6 @@ Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I
 
 ✉️ jon@jonprobert.co.uk
 
-![[quartz/content/assets/Jon500px.jpg|300]]
+![[Jon500px.jpg|300]]
 
 Take care.
