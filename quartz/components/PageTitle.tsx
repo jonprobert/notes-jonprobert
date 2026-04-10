@@ -12,8 +12,8 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
    return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img class="Logo logo-light" src="/files/logo-light.png" />
-        <img class="Logo logo-dark" src="/files/logo-dark.png" />
+        <img class="Logo logo-light" src="/assets/logo-light.png" />
+        <img class="Logo logo-dark" src="/assets/logo-dark.png" />
       </a>
       {/*<a href={baseDir}>{title}</a>*/} {/*RESTORE THIS LINE TO GET THE PAGE TITLE BACK JON*/}
     </h2>
