@@ -4,12 +4,12 @@ title: Home
 tags:
 socialImage:
 date: 2026-03-30
-modified:
+modified: 2026-04-10
 draft: false
 ---
 Hi there, welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) I'm not entirely sure what I want this page to be just yet.
 
-In the meantime, here are some [[Links|other things]].
+In the meantime, explore the sidebar.
 
 Contact: jon@jonprobert.co.uk
 
