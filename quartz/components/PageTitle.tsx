@@ -69,7 +69,7 @@ PageTitle.css = `
 /* mobile override */
 @media (max-width: 800px) {
   .Logo {
-    width: 10%;
+    width: 20%;
   }
 }
 `
