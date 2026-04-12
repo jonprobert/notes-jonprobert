@@ -20,7 +20,7 @@ In release date order (with wiki links):
 - [In Bruges (2008-01-17)](https://en.wikipedia.org/wiki/In_Bruges)
 - [Hot Fuzz (2007-02-14)](https://en.wikipedia.org/wiki/Hot_Fuzz)
 - [The World's Fastest Indian (2005-10-12)](https://en.wikipedia.org/wiki/The_World%27s_Fastest_Indian)
-- [EuroTrip (2004-02-20)](https://en.wikipedia.org/wiki/EuroTrip)
+- [EuroTrip (2004-02-20)](https://en.wikipedia.org/wiki/EuroTrip) (ok, this is trash but it's staying)
 - [The Lord of the Rings: The Return of the King (2003-12-01)](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
 - [Kill Bill: Volume 1 (2003-10-10)](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1)
 - [The Pianist (2002-05-24)](https://en.wikipedia.org/wiki/The_Pianist_(2002_film))
