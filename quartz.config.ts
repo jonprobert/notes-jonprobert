@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "",
+      tagId: "G-1SCZ3ESS3E",
     },
     locale: "en-GB",
     baseUrl: "notes.jonprobert.co.uk",
