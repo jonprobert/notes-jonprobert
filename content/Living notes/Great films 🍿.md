@@ -14,12 +14,18 @@ In release date order (with wiki links):
 ## 2020–2029
 
 - [Alien: Romulus (2024-08-16)](https://en.wikipedia.org/wiki/Alien:_Romulus)
+- [Oppenheimer (2023-07-21)](https://en.wikipedia.org/wiki/Oppenheimer_(film))
+- [Tetris (2023-03-31)](https://en.wikipedia.org/wiki/Tetris_(film))
 
 ## 2010–2019
 
+- [Green Book (2018-11-16)](https://en.wikipedia.org/wiki/Green_Book_(film))
 - [Darkest Hour (2017-09-10)](https://en.wikipedia.org/wiki/Darkest_Hour_(film))
+- [Hidden Figures (2017-01-06)](https://en.wikipedia.org/wiki/Hidden_Figures)
 - [The Hateful Eight (2015-12-25)](https://en.wikipedia.org/wiki/The_Hateful_Eight)
+- [The Imitation Game (2014-11-14)](https://en.wikipedia.org/wiki/The_Imitation_Game)
 - [The Theory of Everything (2014-11-07)](https://en.wikipedia.org/wiki/The_Theory_of_Everything_(2014_film))
+- [Whiplash (2014-10-10)](https://en.wikipedia.org/wiki/Whiplash_(2014_film))
 - [The King's Speech (2010-09-06)](https://en.wikipedia.org/wiki/The_King%27s_Speech)
 
 ## 2000–2009
@@ -41,8 +47,11 @@ In release date order (with wiki links):
 
 - [The Green Mile (1999-12-10)](https://en.wikipedia.org/wiki/The_Green_Mile_(film))
 - [Saving Private Ryan (1998-07-24)](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
+- [The Big Lebowski (1998-04-24)](https://en.wikipedia.org/wiki/The_Big_Lebowski)
+- [Pulp Fiction (1994-10-14)](https://en.wikipedia.org/wiki/Pulp_Fiction)
 - [The Shawshank Redemption (1994-09-23)](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
 - [Schindler's List (1993-11-30)](https://en.wikipedia.org/wiki/Schindler%27s_List)
+- [Mrs Doubtfire (1993-11-24)](https://en.wikipedia.org/wiki/Mrs._Doubtfire)
 - [Goodfellas (1990-09-09)](https://en.wikipedia.org/wiki/Goodfellas)
 
 ## 1980–1989
@@ -51,6 +60,7 @@ In release date order (with wiki links):
 - [The Naked Gun: From the Files of Police Squad! (1988-12-02)](https://en.wikipedia.org/wiki/The_Naked_Gun:_From_the_Files_of_Police_Squad!)
 - [Aliens (1986-07-18)](https://en.wikipedia.org/wiki/Aliens_(film))
 - [Back to the Future (1985-07-03)](https://en.wikipedia.org/wiki/Back_to_the_Future)
+- [Amadeus (1984-09-19)](https://en.wikipedia.org/wiki/Amadeus_(film))
 - [Raiders of the Lost Ark (1981-06-12)](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
 - [The Shining (1980-05-23)](https://en.wikipedia.org/wiki/The_Shining_(film))
 - [Airplane! (1980-07-02)](https://en.wikipedia.org/wiki/Airplane!)
@@ -59,6 +69,8 @@ In release date order (with wiki links):
 
 - [Alien (1979-05-25)](https://en.wikipedia.org/wiki/Alien_(film))
 - [Papillon (1973-12-13)](https://en.wikipedia.org/wiki/Papillon_(1973_film))
+- [A Clockwork Orange (1972-01-13)](https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film))
+- [Dirty Harry (1971-12-23)](https://en.wikipedia.org/wiki/Dirty_Harry)
 - [The Railway Children (1970-12-21)](https://en.wikipedia.org/wiki/The_Railway_Children_(1970_film))
 
 ## 1960–1969
