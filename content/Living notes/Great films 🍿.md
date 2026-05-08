@@ -42,6 +42,7 @@ In release date order (with wiki links):
 - [Alien (1979-05-25)](https://en.wikipedia.org/wiki/Alien_(film))
 - [Papillon (1973-12-13)](https://en.wikipedia.org/wiki/Papillon_(1973_film))
 - [The Railway Children (1970-12-21)](https://en.wikipedia.org/wiki/The_Railway_Children_(1970_film))
+- [The Italian Job (1969-06-05)](https://en.wikipedia.org/wiki/The_Italian_Job)
 - [Where Eagles Dare (1968-12-04)](https://en.wikipedia.org/wiki/Where_Eagles_Dare)
 - [Fantastic Voyage (1966-08-24)](https://en.wikipedia.org/wiki/Fantastic_Voyage)
 - [The Train (1964-09-24)](https://en.wikipedia.org/wiki/The_Train_(1964_film))
