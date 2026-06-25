@@ -18,6 +18,7 @@ In release date order (with wiki links):
 - [Alien: Romulus (2024-08-16)](https://en.wikipedia.org/wiki/Alien:_Romulus)
 - [Oppenheimer (2023-07-21)](https://en.wikipedia.org/wiki/Oppenheimer_(film))
 - [Tetris (2023-03-31)](https://en.wikipedia.org/wiki/Tetris_(film))
+- [The Menu (2022-10-18)](https://en.wikipedia.org/wiki/The_Menu_(2022_film))
 
 ## 2010–2019
 
