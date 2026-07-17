@@ -15,4 +15,4 @@ See [Living Notes](/Living-notes) for ongoing evolving stuff. [Posts](/Posts) ar
 
 ![[Jon500px.jpg|300]]
 
-Take care.
+Take care :)
