@@ -4,7 +4,7 @@ tags:
 description:
 socialImage:
 date: 2025-01-09
-modified: 2026-05-08
+modified: 2026-07-18
 draft: false
 ---
 <!--Be sure to update page in Digital Garden in tandem.-->
@@ -37,6 +37,7 @@ In release date order (with wiki links):
 - [A Matter of Loaf and Death (2008-12-03)](https://en.wikipedia.org/wiki/A_Matter_of_Loaf_and_Death)
 - [In Bruges (2008-01-17)](https://en.wikipedia.org/wiki/In_Bruges)
 - [Hot Fuzz (2007-02-14)](https://en.wikipedia.org/wiki/Hot_Fuzz)
+- [Blood Diamond (2006-12-08)](https://en.wikipedia.org/wiki/Blood_Diamond)
 - [The World's Fastest Indian (2005-10-12)](https://en.wikipedia.org/wiki/The_World%27s_Fastest_Indian)
 - [EuroTrip (2004-02-20)](https://en.wikipedia.org/wiki/EuroTrip) (ok, this is trash but it's staying)
 - [The Lord of the Rings: The Return of the King (2003-12-01)](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
