@@ -4,7 +4,7 @@ tags:
 description:
 socialImage:
 date: 2026-03-30
-modified: 2026-04-07
+modified: 2026-10-21
 draft: false
 ---
 Some life advice.
@@ -22,3 +22,4 @@ Some life advice.
 11. When cooking a roast chicken to strip for later use, it is widely agreed that it is simply impossible to not eat some of the unlucky bird during the stripping process. There is of course a limit to how much the assigned stripper can sequester for personal consumption before the ruse is rumbled. Through extensive research, I have found this limit to be roughly 10-15% of the total meat extracted before having to suffer being slapped on the back of the head by your dining partner.
 12. When filling your hot water bottle, trying to avoid letting your gaze stray out of the window to see what those birds on the feeder are. You might pour boiling water on your hand, and you might be rightfully mocked for this.
 13. When on holiday in a B&B in the middle of nowhere, don't attempt to cut the wax from a delicious wheel of Snowdonia Black Bomber cheese with an extremely sharp pocket knife. Definitely don't cut the top 5mm of your thumb off and have to have the nice lady at the farmhouse patch you up because it's at least 45 minutes drive to a hospital. The bleeding will not stop for 12 hours, and you will spend the entire night in pain with your thumb throbbing, and you will get very little sleep.
+14. When performing at the British Open Brass Band championships do not wait to check you've remembered your uniform until the morning of the contest, and then discover you've not got your black trousers with you. You will look like a right idiot in front of everyone and have to rush to buy some brand new ones at extortionate cost and hope the band don't get drawn early.

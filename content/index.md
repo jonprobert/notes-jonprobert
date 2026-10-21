@@ -4,14 +4,14 @@ title: Jon's Notes
 tags:
 socialImage:
 date: 2026-03-30
-modified: 2026-07-19
+modified: 2026-10-21
 draft: false
 ---
 Hi there, and welcome to [notes.jonprobert.co.uk.](https://notes.jonprobert.co.uk) 
 
-I'm not entirely sure what I want this page to be just yet. In anticipation of moving away from my squarespace site (based on soaring costs) I'm current using this as a place to post my random musings, and keep historical posts etc. Running on [Quartz 5](https://quartz.jzhao.xyz) from an [Obsidian](https://obsidian.md) vault via [Cloudflare Pages](https://pages.cloudflare.com), the workflow is quite easy (and free!).
+I’m Jon, a Chartered Chemical Engineer from Cheshire, England. Outside of work, I dabble in photography, making videos, writing, gardening, and playing the cornet and trumpet. This site is a small collection of some of the things I get up to, along with a few projects, experiments, and notes that I’ve accumulated along the way.
 
-Whilst I decide what to do proper, please feel free to explore the sidebar.
+Having moving away from my squarespace site (based on soaring costs) I'm current using this as a place to post my random musings, and keep historical posts etc.
 
 Also see [[Links|links]] to my other things.
 
